@@ -1,0 +1,5 @@
+body {
+    display: flex;
+    justify-content: center; /* Alinea horizontalmente */  
+    height: 100vh;           /* Asegura que el body tenga la altura completa de la ventana */
+}
